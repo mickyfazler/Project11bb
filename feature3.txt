@@ -3,3 +3,4 @@ worldbb2!
 Added!
 fucking-colllaborator
 after-rules
+after-push-error
